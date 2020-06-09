@@ -8,3 +8,5 @@ fields:
     required: false
   label: Wiki
   description: Test Wiki Label
+pages:
+- _posts/NCR Printer.md
